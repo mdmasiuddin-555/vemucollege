@@ -111,7 +111,7 @@
 
 <body>
   <header>
-    <h1>Vignesh College - Learning Management System</h1>
+    <h1>Lokesh College - Learning Management System</h1>
   </header>
 
   <nav>
