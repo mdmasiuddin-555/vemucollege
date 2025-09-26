@@ -111,7 +111,7 @@
 
 <body>
   <header>
-    <h1>Lokesh College - Learning Management System</h1>
+    <h1>Naveen LMS Tool</h1>
   </header>
 
   <nav>
